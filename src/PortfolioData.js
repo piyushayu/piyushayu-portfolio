@@ -1,5 +1,5 @@
-import Piyushsingh from "./assets/Piyushsingh.png";
-import myfreshfolio from "./assets/myfreshfolio.png";
+import Piyushsingh from "./assets/Piyushsingh.jpg";
+import myfreshfolio from "./assets/myfreshfolio.jpg";
 
 function getPortfolioData() {
   const portfolio = {
@@ -11,7 +11,7 @@ function getPortfolioData() {
     {
       "title": "Piyushsingh",
       "description": "can do slave work ",
-      "image": "piyushsingh",
+      "image": Piyushsingh,
       "link": "ngkejkgjke"
     },
     {
