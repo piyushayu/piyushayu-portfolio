@@ -1,10 +1,9 @@
-import resume from "./assets/resume.pdf";
-
 function getPortfolioData() {
   const portfolio = {
-  "home": {
-    "resume": resume
+  "Contact": {
+    "footer": "piyush Singh"
   },
+  "home": {},
   "projects": []
 };
   return portfolio;
