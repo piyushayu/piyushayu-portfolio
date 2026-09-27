@@ -8,8 +8,13 @@ function getPortfolioData() {
   "Contact": {
     "Heading": "rhh4hrerhser",
     "description": "say hello on any of my socials and let's get physical erhr",
-    "footer": "fmgymwrherhrd",
+    "footer": "jjfekjljewgjleegegeg",
     "socials": [
+      {
+        "platform": "github",
+        "name": "Github",
+        "url": "gegegege"
+      },
       {
         "platform": "peerlist",
         "name": "Peerlist",
@@ -24,7 +29,7 @@ function getPortfolioData() {
   },
   "home": {
     "name": "piyush Singh",
-    "description": "say hello on any of my socials and let's get physical ",
+    "description": "kjkfjdjfioedoeipige[b[eb[[je",
     "resume": resume,
     "github": "https://github.com/confusedpiyush",
     "avatar": avatar
@@ -58,7 +63,8 @@ function getPortfolioData() {
       },
       {
         "name": "Redux",
-        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+        "_id": "6ab90955af92c14fa719107d"
       }
     ],
     "Backend": [
@@ -79,15 +85,18 @@ function getPortfolioData() {
       },
       {
         "name": "MySQL",
-        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+        "_id": "6ab90955af92c14fa7191075"
       },
       {
         "name": "PostgreSQL",
-        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+        "_id": "6ab90955af92c14fa7191076"
       },
       {
         "name": "Socket.io",
-        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg",
+        "_id": "6ab90955af92c14fa7191077"
       }
     ],
     "Technologies": [
@@ -111,7 +120,7 @@ function getPortfolioData() {
   "projects": [
     {
       "title": "nsrnrtnrt",
-      "description": "aehrherhtrjntrjtryjtryjtryj",
+      "description": "aehrherhtrjntrgegegegegegege",
       "image": nsrnrtnrt,
       "link": "hrhrhrhhrr",
       "_id": "6ab8c9cccc5f2e3305073947"
