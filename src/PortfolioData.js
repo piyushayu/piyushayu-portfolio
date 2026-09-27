@@ -1,29 +1,29 @@
 import avatar from "./assets/avatar.jpg";
 import resume from "./assets/resume.pdf";
-import rhetjhrtwhtrht from "./assets/rhetjhrtwhtrht.jpg";
-import hejtmrsymrytm from "./assets/hejtmrsymrytm.jpg";
+import rherheh from "./assets/rherheh.jpg";
+import hrhrghr from "./assets/hrhrghr.jpg";
 
 function getPortfolioData() {
   const portfolio = {
   "home": {
-    "name": "j;GKLWRJKLGGRRHTEJ",
-    "description": "TJTJTYJTYJTYMYT",
+    "name": "rhhreh",
+    "description": "hhrhentmtrt",
     "resume": resume,
-    "github": "WRHEATJYKYT",
+    "github": "fhrtjtrjtrjmm",
     "avatar": avatar
   },
   "projects": [
     {
-      "title": "rhetjhrtwhtrht",
-      "description": "hthjryjyjyrnmyym",
-      "link": "ymymymymy",
-      "image": rhetjhrtwhtrht
+      "title": "rherheh",
+      "description": "erhrthrhr",
+      "image": rherheh,
+      "link": "hrhrhrhhrr"
     },
     {
-      "title": "hejtmrsymrytm",
-      "description": "ymtyty,uyu",
-      "image": hejtmrsymrytm,
-      "link": "whjwktu,yu,ij"
+      "title": "hrhrghr",
+      "description": "hrhrhrehrh",
+      "image": hrhrghr,
+      "link": "rhrhrhrhr"
     }
   ],
   "tech": {
@@ -71,12 +71,12 @@ function getPortfolioData() {
         "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
       },
       {
-        "name": "Redis",
-        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-      },
-      {
         "name": "Prisma",
         "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg"
+      },
+      {
+        "name": "Redis",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
       }
     ],
     "Technologies": [
@@ -93,8 +93,8 @@ function getPortfolioData() {
         "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
       },
       {
-        "name": "Vercel",
-        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"
+        "name": "Vite",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
       },
       {
         "name": "npm",
@@ -103,24 +103,24 @@ function getPortfolioData() {
     ]
   },
   "Contact": {
-    "Heading": "Hy i would love to contect with you all ",
+    "Heading": "rhh",
     "description": "say hello on any of my socials and let's get physical ",
-    "footer": "thetrherger",
+    "footer": "fmgym,",
     "socials": [
+      {
+        "platform": "peerlist",
+        "name": "Peerlist",
+        "url": "hrhrhtr"
+      },
       {
         "platform": "github",
         "name": "Github",
-        "url": "hwrenfaetns"
+        "url": "jtrjtrj"
       },
       {
         "platform": "instagram",
         "name": "Instagram",
-        "url": "rnemetmtem"
-      },
-      {
-        "platform": "twitter",
-        "name": "Twitter",
-        "url": "tmtmtrmrt"
+        "url": "tjtjtjt"
       }
     ]
   }
